@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * more_numbers - prints 0 to 14 ten times
- * Return: Always 0
+ * more_numbers - numbr fct
+ * Bwave ICT file
+ * Return: no return
  */
+
 void more_numbers(void)
 {
 
