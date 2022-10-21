@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - numbr fct
+ * more_numbers - nmbr fct
  * Bwave ICT file
  * Return: no return
  */
